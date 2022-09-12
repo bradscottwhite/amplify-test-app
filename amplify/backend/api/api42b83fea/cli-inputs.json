@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/cust/{custId}": {
+      "name": "/cust/{custId}",
+      "lambdaFunction": "amplifytestapp52324fb0",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
